@@ -1,6 +1,5 @@
 .DS_Store
 node_modules
-/dist
 /src/env.local.js
 /src/env.prod.js
 
